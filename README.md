@@ -48,8 +48,8 @@ Follow these steps to set up the project locally:
 ## 📸 Screenshots & Page Speed Insights
 Include screenshots of your project and **PageSpeed Insights** performance results here.
 
-- **Homepage Screenshot:** ![Homepage](public/Screenshot (225).png)
-- **Page Speed Insights Report:** ![PageSpeed](public/Screenshot (226).png)
+- **Homepage Screenshot:** ![Homepage](public/Screenshot_225.png)
+- **Page Speed Insights Report:** ![PageSpeed](public/Screenshot_226.png)
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
