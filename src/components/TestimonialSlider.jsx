@@ -1,5 +1,5 @@
 import React from "react";
-import TestimonialImg from "../assets/TestimonialImg.png";
+import TestimonialImg from "../assets/testimonialImg.png";
 import { FaQuoteRight, FaStar, FaStarHalfAlt } from "react-icons/fa";
 
 const TestimonialSlider = ({ currentSlide, setCurrentSlide }) => {
