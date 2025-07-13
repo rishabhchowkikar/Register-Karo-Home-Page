@@ -10,6 +10,7 @@ import FAQ from "./sections/FAQ";
 import MobileAndNumber from "./sections/MobileAndNumber";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
+import Swiper from "./sections/Swiper";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <Choose />
       <HappyClient />
       <Blogs />
+      <Swiper />
       <FAQ />
       <MobileAndNumber />
       <Contact />
